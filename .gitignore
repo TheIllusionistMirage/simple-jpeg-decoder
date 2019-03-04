@@ -1,0 +1,18 @@
+# KDevelop
+*.kdev4
+.kdev*
+.kdev4/
+*~
+
+# Codeblocks files
+bin/
+obj/
+*.cbp
+*.depend
+*.layout
+
+# VS COde files
+.vscode/
+
+# Build artifacts
+build/
